@@ -1,2 +1,6 @@
-# SDLC_SNHU
-As one of the assignments for SDLC class
+### How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
+Understanding user's needs and requests requires good listening and communication skills. One thing that I do is try to summarize user's needs in my own words and share it with him/her to make sure that I have a good understanding of the requirement, and in case of any ambiguity, try to reach out and clarify it. User stories will enable me to prioritize the most important and urgent parts of the program and manage and organize my resources effectively and efficiently it helps team coordination and creates synergy among the team members. 
+### How do I approach developing programs? What agile processes do I hope to incorporate into my future development work?
+At this time and as a junior developer, I mainly will be working with Scrum-Agile framework, however my goals is to learn more about SAFe framework and lead a large scale project or company.
+### What does it mean to be a good team member in software development?
+A good team member not only does his/her best to completes their assignments and tasks in the allocated time frame with the highest quality, but also volunteers and actively participates in supporting and helping other team members. There is not problem to ask a question when you do not know or say something when you notice someone is doing something wrong. Being respectful at all times even when there is disagreement, embracing different cultures, diversity, individuality and having fun are the most important things that I look for to be a good team player.
